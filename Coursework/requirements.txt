@@ -1,0 +1,8 @@
+Dependancies:
+    npm install vue-router@next  // used for the routing
+    npm i --save-dev @types/node  // used for the routing
+    npm install bootstrap // used for bootstrap
+    pip install django-cors-headers 
+    python -m pip install Pillow
+    npm i bootstrap-icons
+    npm install @vue/composition-api
